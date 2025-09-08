@@ -11,3 +11,7 @@
     justify-content: center;
     align-items: center;
 }
+.title span{
+    color: #26ffcb;
+    padding-left: 15px;
+}
