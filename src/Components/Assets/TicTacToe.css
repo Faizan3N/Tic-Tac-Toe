@@ -1,0 +1,13 @@
+.container{
+    text-align: center;
+    margin-top: 60px;
+
+}
+.title{
+    margin-top: 50px;
+    color: white;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
